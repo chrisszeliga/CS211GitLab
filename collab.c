@@ -23,8 +23,8 @@ void reed_ekidan2() {
 
 void cszel3_jnava31()
 {
-    printf("Chris Szeliga and Josiah Navarro");
-    printf("We learned that SSH can be complicated to setup, but is more secure");
+    printf("Chris Szeliga and Josiah Navarro\n");
+    printf("We learned that SSH can be complicated to setup, but is more secure\n");
 }
 
 int main()
